@@ -1,5 +1,5 @@
 ﻿{
-  "Host": "45.25.238.239",
+  "Host": "localhost",
   "Port": 5400,
   "GameFont": "sourcesansproblack",
   "EntityNameFont": "sourcesansproblack",
