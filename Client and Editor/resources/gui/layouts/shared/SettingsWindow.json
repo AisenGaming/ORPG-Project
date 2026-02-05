@@ -4847,7 +4847,7 @@
                     "MinimumSize": "0,0",
                     "MaximumSize": "0,0",
                     "Disabled": false,
-                    "Hidden": true,
+                    "Hidden": false,
                     "RestrictToParent": false,
                     "MouseInputEnabled": true,
                     "HideToolTip": false,
